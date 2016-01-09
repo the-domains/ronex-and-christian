@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ronex & Christian]]></title>
+        <description><![CDATA[Ronex & Christian]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 01:15:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet Alfred]]></title>
+            <description><![CDATA[<article><h1>Meet Alfred</h1><p>Alfred is the money conscious and slightly paranoid grandpa of the family.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37cb233b-1001-4c89-95cb-7af9f108d96c.png"></article>]]></description>
+            <link>undefinedmeet-alfred/index.html</link>
+            <guid isPermaLink="false">5c03431e-75f9-4a1d-a61b-1f890b804010</guid>
+            <pubDate>Sat, 09 Jan 2016 01:15:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
